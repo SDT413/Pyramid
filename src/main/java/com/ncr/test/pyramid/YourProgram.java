@@ -20,7 +20,7 @@ public class YourProgram {
         // this is your implementation
         final PyramidSolver solver = new YourSolver();
 
-        System.out.println("Maximum path sum for this pyramid is :");
+        System.out.println("Maximum path sum for this pyramid is:");
         System.out.println(solver.pyramidMaximumTotal(pyramid));
     }
     
